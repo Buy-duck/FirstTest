@@ -1,0 +1,25 @@
+<html>  
+ <head>
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+</head>
+<body>
+<script>
+a=prompt("Введите значение a", "");
+parseFloat(a);
+</script>
+<script>
+b=prompt("Введите значение b", "");
+parseFloat(b);
+</script>
+<script>
+c=prompt("Введите значение c", "");
+parseFloat(c);
+</script>
+<script>
+d=prompt("Введите значение d", "");
+parseFloat(d);
+</script>
+<script>
+document.write("Вычисление по формуле a/b*c/d-(ab-c)/cd=",a/b*c/d-(a*b-c)/c*d);
+</script>  
+</body> </html> 
