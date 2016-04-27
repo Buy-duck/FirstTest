@@ -3,23 +3,22 @@
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 </head>
 <body>
+Welcome!!!
 <script>
-a=prompt("Введите значение a", "");
+a=prompt("Г‚ГўГҐГ¤ГЁГІГҐ Г§Г­Г Г·ГҐГ­ГЁГҐ a", "");
 parseFloat(a);
-</script>
-<script>
-b=prompt("Введите значение b", "");
+b=prompt("Г‚ГўГҐГ¤ГЁГІГҐ Г§Г­Г Г·ГҐГ­ГЁГҐ b", "");
 parseFloat(b);
 </script>
 <script>
-c=prompt("Введите значение c", "");
+c=prompt("Г‚ГўГҐГ¤ГЁГІГҐ Г§Г­Г Г·ГҐГ­ГЁГҐ c", "");
 parseFloat(c);
 </script>
 <script>
-d=prompt("Введите значение d", "");
+d=prompt("Г‚ГўГҐГ¤ГЁГІГҐ Г§Г­Г Г·ГҐГ­ГЁГҐ d", "");
 parseFloat(d);
 </script>
 <script>
-document.write("Вычисление по формуле a/b*c/d-(ab-c)/cd=",a/b*c/d-(a*b-c)/c*d);
+document.write("Г‚Г»Г·ГЁГ±Г«ГҐГ­ГЁГҐ ГЇГ® ГґГ®Г°Г¬ГіГ«ГҐ a/b*c/d-(ab-c)/cd=",a/b*c/d-(a*b-c)/c*d);
 </script>  
 </body> </html> 
